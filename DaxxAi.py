@@ -17,8 +17,8 @@ import os
 import re
 
 
-API_ID = "6435225"
-API_HASH = "4e984ea35f854762dcde906dce426c2d"
+API_ID = "28318928"
+API_HASH = "935db70d8bc199c2c20560da66c3e71c"
 SESSION_NAME = os.environ.get("SESSION_NAME", "")
 MONGO_URL = os.environ.get("MONGO_URL", "")
 
